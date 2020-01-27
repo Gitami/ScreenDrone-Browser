@@ -1,0 +1,11 @@
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\ResolveAssemblyReference.cache
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\PanelBrowser.settings.resources
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\PanelBrowser.Splash.resources
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\PanelBrowser.csproj.GenerateResource.Cache
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\PanelBrowser.Panel.resources
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\bin\Release\Drone Panel.exe.config
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\DronePanel.Properties.Resources.resources
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\bin\Release\Drone Panel.exe
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\bin\Release\Drone Panel.pdb
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\Drone Panel.exe
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\Drone Panel.pdb

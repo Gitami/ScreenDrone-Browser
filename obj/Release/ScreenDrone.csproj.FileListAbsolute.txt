@@ -1,0 +1,22 @@
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\obj\Release\ResolveAssemblyReference.cache
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\obj\Release\PanelBrowser.Panel.resources
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\obj\Release\PanelBrowser.settings.resources
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\obj\Release\PanelBrowser.Splash.resources
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\obj\Release\ScreenDrone.csproj.GenerateResource.Cache
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\bin\Release\ScreenDrone.exe.config
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\bin\Release\ScreenDrone.exe
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\bin\Release\ScreenDrone.pdb
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\obj\Release\ScreenDrone.Properties.Resources.resources
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\obj\Release\ScreenDrone.exe
+C:\Domains\VisualStudioProjects\My Projects\Drone Panel\obj\Release\ScreenDrone.pdb
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\bin\Release\ScreenDrone.exe.config
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\bin\Release\ScreenDrone.exe
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\bin\Release\ScreenDrone.pdb
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Release\ResolveAssemblyReference.cache
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Release\PanelBrowser.Panel.resources
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Release\ScreenDrone.Properties.Resources.resources
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Release\PanelBrowser.settings.resources
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Release\PanelBrowser.Splash.resources
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Release\ScreenDrone.csproj.GenerateResource.Cache
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Release\ScreenDrone.exe
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Release\ScreenDrone.pdb

@@ -1,0 +1,11 @@
+c:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\bin\Release\HostDrone PanelBrowser.exe.config
+c:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\HostDrone PanelBrowser.exe
+c:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\HostDrone PanelBrowser.pdb
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\bin\Release\HostDrone PanelBrowser.exe
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\bin\Release\HostDrone PanelBrowser.pdb
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\ResolveAssemblyReference.cache
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\PanelBrowser.Form1.resources
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\PanelBrowser.Properties.Resources.resources
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\PanelBrowser.settings.resources
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\PanelBrowser.Splash.resources
+C:\Domains\VisualStudioProjects\My Projects\HostDrone PanelBrowser\obj\Release\Browser.csproj.GenerateResource.Cache

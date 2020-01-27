@@ -1,0 +1,11 @@
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\bin\Debug\ScreenDrone.exe.config
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\bin\Debug\ScreenDrone.exe
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\bin\Debug\ScreenDrone.pdb
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Debug\ResolveAssemblyReference.cache
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Debug\PanelBrowser.Panel.resources
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Debug\ScreenDrone.Properties.Resources.resources
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Debug\PanelBrowser.settings.resources
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Debug\PanelBrowser.Splash.resources
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Debug\ScreenDrone.csproj.GenerateResource.Cache
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Debug\ScreenDrone.exe
+C:\Domains\VisualStudioProjects\My Projects\ScreenDrone\obj\Debug\ScreenDrone.pdb
